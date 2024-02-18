@@ -54,11 +54,11 @@
 ###
 
 <div align="center">
-  <img src="[https://streak-stats.demolab.com?user=sumcray-star&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=sumcray-star&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="[https://raw.githubusercontent.com/sumcray-star/sumcray-star/output/snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sumcray-star/sumcray-star/output/snake.svg" alt="Snake animation" />
 
 ###
